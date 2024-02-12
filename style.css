@@ -1,0 +1,27 @@
+h1 {
+    background-color: black;
+    color:white;
+}
+
+img.Escudo {
+    position: relative;
+    top: -13px;
+    width: 700px;
+    height: 720px;
+}
+
+img.Mestalla {
+    position: relative;
+    top: -10px;
+    left: 370px;
+    width: 800px;
+    height: 720px;
+}
+
+body {
+    background-color:white;
+}
+
+a {
+    color:black;
+}
